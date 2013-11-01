@@ -1,4 +1,4 @@
-name := "scala-sbt-seed"
+name := "scala99"
 
 version := "1.0.0"
 
